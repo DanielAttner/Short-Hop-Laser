@@ -1,6 +1,11 @@
-The file with all the code is called jews.... should have probably changed that
-The file with all the pictures i use is called game
+The file with all the code is called main
 
+Game is now on Steam with its new title:  Short Hop Laser
+Its only 1$ so consider trying it :) 
+
+I have removed the exe and data files here but will keep the python code up if people want to read it.
+
+I may add to the game to include levels, boss fights, and a tutorial in the future if i feel up to it.
 
 
 [Space]  shoots laser
@@ -9,23 +14,4 @@ The file with all the pictures i use is called game
 [D] right
 [M] jump
 [LShift] walk
-
-
-This demo is a proof of concept for the full game
-Therefore it does not include, but will eventually have:
--menus
--levels
--enemies
--story
--sound
-
-This is just a demo of falco's movement and abilities
-Goal is to make a melee-like mini game out of falco's short hop laser from melee
-Move set does not include:
--double jump
--full hop
--wavedash
--dashdance
--any attacks other than laser
-
-although i might add some of these features in future....
+[Enter] select menu option
