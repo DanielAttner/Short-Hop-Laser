@@ -1968,6 +1968,4 @@ while game_run:
 
 
 
-
-
 pygame.quit()  #kills code when loop ends
